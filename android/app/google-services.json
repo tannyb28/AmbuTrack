@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "344949067507",
+    "firebase_url": "https://ambutracker-bd734-default-rtdb.firebaseio.com",
+    "project_id": "ambutracker-bd734",
+    "storage_bucket": "ambutracker-bd734.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344949067507:android:c0d1ead0983aa044847186",
+        "android_client_info": {
+          "package_name": "com.example.ambutracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344949067507-ndnchu0mj2lm8af7pahnu7k89kktglp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlCnqJpArNlXB9uxRBW1fuxbUT6-byVY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344949067507-ndnchu0mj2lm8af7pahnu7k89kktglp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
